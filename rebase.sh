@@ -4,3 +4,4 @@ This is Rebasefile example:
 -- Please click on bell icon
 
 -- This is a change on GitHub to merge
+-- Hi all
